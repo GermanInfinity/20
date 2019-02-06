@@ -1,0 +1,30 @@
+body
+{
+	margin: 0;
+	padding: 0; 
+	width: 100%;
+	height: 100vh;
+	display: fles;
+	align-items: center;
+	justify-content: center; 
+	background-image: url("mount.jpg");
+	background-color: #ADD8E6;
+	background-repeat: no-repeat;
+ 	background-position: center;
+  	background-attachment: fixed;
+}
+h1
+{
+	color: #FFA500;
+}
+p
+{
+	font-style: italic;
+	font-size: 6;
+	position: absolute;
+  	top: 800px;
+  	right: 0;
+  	width: 250px;
+  	height: 100px;
+  	color: #800000;
+}
