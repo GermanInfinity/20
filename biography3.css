@@ -35,7 +35,7 @@ h4
   background-color: white;
 }
 
-/* If you want the content centered horizontally and vertically */
+
 .centered {
   position: absolute;
   top: 50%;
@@ -44,7 +44,7 @@ h4
   text-align: center;
 }
 
-/* Style the image inside the centered container, if needed */
+
 .centered img {
   width: 150px;
   border-radius: 50%;
