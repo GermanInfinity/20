@@ -4,7 +4,7 @@ body
 	padding: 0; 
 	width: 100%;
 	height: 100vh;
-	display: fles;
+
 	align-items: center;
 	justify-content: center; 
 	background-image: url("mount.jpg");
@@ -20,7 +20,7 @@ h1
 p
 {
 	font-style: italic;
-	font-size: 6;
+	font-size: 13pt;
 	position: absolute;
   	top: 800px;
   	right: 0;
